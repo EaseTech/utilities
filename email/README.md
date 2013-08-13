@@ -8,7 +8,9 @@ We can use fake mail server to test it as well (http://sourceforge.net/projects/
 To use fake mail follow the following steps :
 
 1) Download fakemail server from http://sourceforge.net/projects/fakemail/
+
 2) Unzip it in a directory of your choice. Lets assume that directory is "/home/fakemail-python-1.0"
+
 3) Run the following command :
  python /home/fakemail-python-1.0/fakemail.py --host=0.0.0.0 --port=22225 --path=/home/fakemail-python-1.0/mail --log=//home/fakemail-python-1.0/log --background
  
