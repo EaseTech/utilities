@@ -1,4 +1,4 @@
-utilities
+Data Processor
 =========
 
-A simple repository for utility classes
+A command line utility to read a delimited file, and hash certain values using SHA-256
